@@ -1,16 +1,16 @@
 <?xml version='1.1' encoding='utf-8'?>
-<widget id="com.realdealagency.maghol" version="1.1.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.realdealagency.elisar" version="1.1.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 
     <name> 
-مسلسل ضد مجهول
+مسلسل اهو ده الى صار 
      
      </name>
     <description>
-               مسلسل ضد مجهول    
+               مسلسل اهو ده الى صار     
     </description>
     <author email="ceo@realdealagency.com" href="http://www.realdealagency.com">
  
-               مسلسل ضد مجهول    
+               مسلسل اهو ده الى صار     
 
     </author>
     <content src="index.html" />
